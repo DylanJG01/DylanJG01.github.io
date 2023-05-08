@@ -1674,3 +1674,8 @@ input, select, textarea {
 		.email-address {
 			margin-left: 50%;
 		}
+
+		#the-div{
+			display: flex;
+			justify-content: center;
+		}
