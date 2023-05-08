@@ -1670,3 +1670,7 @@ input, select, textarea {
 			height: 5.5rem;
 			width: 5.5rem;
 		}
+
+		.email-address {
+			margin-left: 50%;
+		}
